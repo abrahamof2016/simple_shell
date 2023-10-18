@@ -1,7 +1,6 @@
 #include "shell.h"
 /**
-  * prompt - displays a prompt and 
-  * wait for the user to type a command.
+  * prompt - displays a prompt and wait for the user to type a command.
   *
   * Return: nothing.
   */
